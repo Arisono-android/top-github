@@ -54,9 +54,7 @@ public class CodeReadActivity extends BaseActivity implements DirectoryNavDelega
 
     }
 
-    /**
-      * @desc:解析参数
-      */
+  
     private void parseIntent(Bundle savedInstanceState) {
         if (savedInstanceState!=null){
             
@@ -75,8 +73,6 @@ public class CodeReadActivity extends BaseActivity implements DirectoryNavDelega
         RepoDao.getInstance().updateRepoLastModify(Long.valueOf(repo.id)
                 , System.currentTimeMillis());
         mDirectoryNode=repo.toDirectoryNode();
-
-
         mDirectoryNavDelegate.updateData(mDirectoryNode);
     }
     

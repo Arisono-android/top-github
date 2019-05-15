@@ -32,12 +32,12 @@
         "source": "C:\\Users\\Arison\\.android\\build-cache\\7df711281875e8bf6b893e6178332b405e6fbc22\\output\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Project\\android_libary\\top-github\\libraries\\itemtouchhelperextension\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
-        "source": "C:\\Users\\Arison\\.android\\build-cache\\7df711281875e8bf6b893e6178332b405e6fbc22\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
-    },
-    {
         "merged": "C:\\Project\\android_libary\\top-github\\libraries\\itemtouchhelperextension\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
         "source": "C:\\Users\\Arison\\.android\\build-cache\\7df711281875e8bf6b893e6178332b405e6fbc22\\output\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Project\\android_libary\\top-github\\libraries\\itemtouchhelperextension\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\Arison\\.android\\build-cache\\7df711281875e8bf6b893e6178332b405e6fbc22\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
         "merged": "C:\\Project\\android_libary\\top-github\\libraries\\itemtouchhelperextension\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",

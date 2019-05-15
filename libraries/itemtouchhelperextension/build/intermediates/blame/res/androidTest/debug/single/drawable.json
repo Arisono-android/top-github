@@ -108,12 +108,12 @@
         "source": "C:\\Users\\Arison\\.android\\build-cache\\7df711281875e8bf6b893e6178332b405e6fbc22\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "C:\\Project\\android_libary\\top-github\\libraries\\itemtouchhelperextension\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\Arison\\.android\\build-cache\\7df711281875e8bf6b893e6178332b405e6fbc22\\output\\res\\drawable\\abc_switch_thumb_material.xml"
-    },
-    {
         "merged": "C:\\Project\\android_libary\\top-github\\libraries\\itemtouchhelperextension\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_edit_text_material.xml",
         "source": "C:\\Users\\Arison\\.android\\build-cache\\7df711281875e8bf6b893e6178332b405e6fbc22\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Project\\android_libary\\top-github\\libraries\\itemtouchhelperextension\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Arison\\.android\\build-cache\\7df711281875e8bf6b893e6178332b405e6fbc22\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
         "merged": "C:\\Project\\android_libary\\top-github\\libraries\\itemtouchhelperextension\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_text_cursor_material.xml",
